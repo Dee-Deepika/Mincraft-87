@@ -38,7 +38,7 @@ function new_image(get_image){
 	});
 	canvas.add(block_image_object);
 
-	};
+	});
 	
 }
 
